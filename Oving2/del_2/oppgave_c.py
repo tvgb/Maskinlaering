@@ -2,8 +2,6 @@ import numpy as np
 import tensorflow as tf
 from Oving2.del_2 import encoder as e
 
-# jonathaj@stud.ntnu.no
-
 
 class LongShortTermMemoryModel:
     def __init__(self, encodings_size_in, encodings_size_out):
