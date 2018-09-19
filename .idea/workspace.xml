@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94df62e5-386e-4312-859e-06f092e8dc81" name="Default Changelist" comment="" />
+    <list default="true" id="94df62e5-386e-4312-859e-06f092e8dc81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oving2/del_1/oppgave_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oving2/del_1/oppgave_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oving2/del_1/oppgave_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oving2/del_1/oppgave_b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oving2/del_1/oppgave_d.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oving2/del_1/oppgave_d.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,9 +16,15 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Øvinger$oppgave_c.coverage" NAME="oppgave_c Coverage Results" MODIFIED="1536496358334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oving2/del_1" />
     <SUITE FILE_PATH="coverage/Øvinger$oppgave_a.coverage" NAME="oppgave_a Coverage Results" MODIFIED="1536409656890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oving2/del_1" />
+    <SUITE FILE_PATH="coverage/Maskinlaering$encoder.coverage" NAME="encoder Coverage Results" MODIFIED="1537312904035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oving2/del_2" />
+    <SUITE FILE_PATH="coverage/Maskinlaering$oppgave_a.coverage" NAME="oppgave_a Coverage Results" MODIFIED="1536669641583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oving2/del_1" />
     <SUITE FILE_PATH="coverage/Øvinger$oppgave_b.coverage" NAME="oppgave_b Coverage Results" MODIFIED="1536424016786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oving2/del_1" />
+    <SUITE FILE_PATH="coverage/Maskinlaering$test.coverage" NAME="test Coverage Results" MODIFIED="1536668138099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oving2/del_2" />
+    <SUITE FILE_PATH="coverage/Maskinlaering$oppgave_d__1_.coverage" NAME="oppgave_d (1) Coverage Results" MODIFIED="1537188478786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oving2/del_1" />
+    <SUITE FILE_PATH="coverage/Maskinlaering$oppgave_c__1_.coverage" NAME="oppgave_c (1) Coverage Results" MODIFIED="1537348429052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oving2/del_2" />
     <SUITE FILE_PATH="coverage/Øvinger$oppgave_d.coverage" NAME="oppgave_d Coverage Results" MODIFIED="1536415157826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oving1/del_2" />
     <SUITE FILE_PATH="coverage/Øvinger$oppgave_d__1_.coverage" NAME="oppgave_d (1) Coverage Results" MODIFIED="1536496635668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oving2/del_1" />
+    <SUITE FILE_PATH="coverage/Maskinlaering$oppgave_b.coverage" NAME="oppgave_b Coverage Results" MODIFIED="1536670074607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Oving2/del_1" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-931002273">
@@ -49,40 +60,106 @@
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
     </session>
+    <session id="-373755349">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="10" />
+          <entry key="py" value="1518" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="1518" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="-1841763241">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="11" />
+          <entry key="py" value="6153" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="6153" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Oving2/del_1/oppgave_b.py">
+        <entry file="file://$PROJECT_DIR$/Oving2/del_2/oppgave_a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Oving2/del_1/oppgave_c.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="58" column="9" selection-end-line="130" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1300">
+              <caret line="91" selection-start-line="91" selection-end-line="91" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Oving2/del_1/oppgave_d.py">
+        <entry file="file://$PROJECT_DIR$/Oving2/del_2/oppgave_c.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+            <state relative-caret-position="-1451">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Oving2/del_2/encoder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <marker date="1537346544907" expanded="true" signature="100:393" ph="..." />
+                <marker date="1537346544907" expanded="true" signature="484:489" ph="..." />
+                <marker date="1537346544907" expanded="true" signature="907:912" ph="..." />
               </folding>
             </state>
           </provider>
@@ -97,14 +174,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Oving2/del_1/oppgave_a.py" />
         <option value="$PROJECT_DIR$/Oving1/del_2/oppgave_d.py" />
+        <option value="$PROJECT_DIR$/Oving2/del_2/test.py" />
+        <option value="$PROJECT_DIR$/Oving2/del_2/oppgave_b.py" />
         <option value="$PROJECT_DIR$/Oving2/del_1/oppgave_b.py" />
-        <option value="$PROJECT_DIR$/Oving2/del_1/oppgave_c.py" />
         <option value="$PROJECT_DIR$/Oving2/del_1/oppgave_d.py" />
+        <option value="$PROJECT_DIR$/Oving2/del_1/oppgave_a.py" />
+        <option value="$PROJECT_DIR$/Oving2/del_1/oppgave_c.py" />
+        <option value="$PROJECT_DIR$/Oving2/del_2/oppgave_a.py" />
+        <option value="$PROJECT_DIR$/Oving2/del_2/encoder.py" />
+        <option value="$PROJECT_DIR$/Oving2/del_2/oppgave_c.py" />
       </list>
     </option>
   </component>
@@ -120,6 +205,9 @@
     <option name="width" value="2800" />
     <option name="height" value="1760" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -129,19 +217,25 @@
         <subPane>
           <expand>
             <path>
-              <item name="Øvinger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Øvinger" type="462c0819:PsiDirectoryNode" />
+              <item name="Maskinlaering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maskinlaering" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Øvinger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Øvinger" type="462c0819:PsiDirectoryNode" />
+              <item name="Maskinlaering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maskinlaering" type="462c0819:PsiDirectoryNode" />
               <item name="Oving2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Øvinger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Øvinger" type="462c0819:PsiDirectoryNode" />
+              <item name="Maskinlaering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maskinlaering" type="462c0819:PsiDirectoryNode" />
               <item name="Oving2" type="462c0819:PsiDirectoryNode" />
               <item name="del_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maskinlaering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Maskinlaering" type="462c0819:PsiDirectoryNode" />
+              <item name="Oving2" type="462c0819:PsiDirectoryNode" />
+              <item name="del_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,6 +247,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,7 +261,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.oppgave_d (1)">
+  <component name="RunManager" selected="Python.oppgave_c (1)">
+    <configuration name="encoder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Øvinger" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Oving2/del_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oving2/del_2/encoder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="oppgave_a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Øvinger" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,7 +328,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oppgave_c" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="oppgave_c (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Øvinger" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,12 +336,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Oving2/del_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Oving2/del_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oving2/del_1/oppgave_c.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oving2/del_2/oppgave_c.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,41 +372,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oppgave_d" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Øvinger" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Oving1/del_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oving1/del_2/oppgave_d.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.oppgave_a" />
       <item itemvalue="Python.oppgave_b" />
-      <item itemvalue="Python.oppgave_d" />
-      <item itemvalue="Python.oppgave_c" />
       <item itemvalue="Python.oppgave_d (1)" />
+      <item itemvalue="Python.oppgave_a" />
+      <item itemvalue="Python.oppgave_c (1)" />
+      <item itemvalue="Python.encoder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.oppgave_c (1)" />
+        <item itemvalue="Python.encoder" />
         <item itemvalue="Python.oppgave_d (1)" />
-        <item itemvalue="Python.oppgave_c" />
         <item itemvalue="Python.oppgave_b" />
-        <item itemvalue="Python.oppgave_d" />
         <item itemvalue="Python.oppgave_a" />
       </list>
     </recent_temporary>
@@ -309,14 +404,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24398625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15257733" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32897863" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897863" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39311165" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39904988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -359,40 +455,60 @@
         <state relative-caret-position="-1013" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Oving2/del_1/oppgave_a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-367">
-          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/tensorflow/tools/api/generator/api/losses/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Oving2/del_1/oppgave_b.py">
+    <entry file="file://$PROJECT_DIR$/Oving2/del_1/oppgave_c.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="816">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Oving2/del_1/oppgave_c.py">
+    <entry file="file://$PROJECT_DIR$/Oving2/del_1/oppgave_b.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="58" column="9" selection-end-line="130" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="629">
+          <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oving2/del_1/oppgave_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Oving2/del_1/oppgave_d.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        <state relative-caret-position="310">
+          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oving2/del_2/encoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1537346544907" expanded="true" signature="100:393" ph="..." />
+            <marker date="1537346544907" expanded="true" signature="484:489" ph="..." />
+            <marker date="1537346544907" expanded="true" signature="907:912" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oving2/del_2/oppgave_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oving2/del_2/oppgave_c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1451">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

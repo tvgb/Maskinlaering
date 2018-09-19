@@ -66,7 +66,8 @@ class ConvolutionalNeuralNetworkModel:
 model = ConvolutionalNeuralNetworkModel()
 
 LEARNING_RATE = 0.005
-EPOCH = 100
+EPOCH = 10
+
 
 
 # Training: adjust the model so that its loss is minimized

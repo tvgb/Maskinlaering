@@ -35,7 +35,7 @@ class ConvolutionalNeuralNetworkModel:
         W1 = tf.Variable(tf.random_normal([5, 5, 1, 32]))  # tf.nn.conv2d takes 4D arguments. 5x5 filters, 1 in-channel, 32 out-channels
         b1 = tf.Variable(tf.random_normal([32]))
 
-        W2 = tf.Variable(tf.random_normal([3, 3, 32, 64]))
+        W2 = tf.Variable(tf.random_normal([3, 3, 32 , 64]))
         b2 = tf.Variable(tf.random_normal([64]))
 
         W3 = tf.Variable(tf.random_normal([7 * 7 * 64, 1024]))
@@ -73,7 +73,7 @@ class ConvolutionalNeuralNetworkModel:
 model = ConvolutionalNeuralNetworkModel()
 
 LEARNING_RATE = 0.001
-EPOCH = 10
+EPOCH = 20
 
 
 # Training: adjust the model so that its loss is minimized

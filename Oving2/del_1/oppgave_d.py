@@ -113,6 +113,7 @@ for epoch in range(EPOCH):
         accuracy += session.run(model.accuracy, {model.x: x_test_batches[batch], model.y: y_test_batches[batch]})
 
     acc_table.append(accuracy_string + str(round((accuracy / test_batches), 4)))
+    print(accuracy_string + str(round((accuracy / test_batches), 4)))
     acc_only_table.append(round((accuracy / test_batches), 4))
 
 for i in range(len(acc_table)):
